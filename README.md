@@ -34,5 +34,26 @@ Hampiyati, Madhavi, and Madan Mohan are among the top customers by sales amount.
 Cash on Delivery (COD) remains the most preferred payment mode (44%), followed by UPI (21%), Debit Card (13%), and Credit Card (12%).
 
 - Dashboard Interaction <a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-07%20214734.png">View Dashboard </a>
-- Dashboard Background<a href =""></a>
+- Dashboard Background<a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/dark-gradient.jpg"></a>
+Process Flow of Madhav Ecommerce Sales Dashboard
+1-Data Collection
+Sales data is gathered from various ecommerce transactions, including customer details, product categories, sub-categories, quantities sold, profit margins, and payment modes.
+
+2-Data Cleaning & Transformation
+The raw data is cleaned, formatted, and structured using Power BI’s Power Query Editor to ensure consistency and accuracy.
+
+3-Data Modeling
+Relationships are created between different tables like sales, customers, products, and regions to build a reliable data model that supports insightful analysis.
+
+4-Visualization Development
+Key performance indicators (KPIs) such as Total Sales, Profit, Quantity Sold, and Average Sales Value are visualized using intuitive charts, graphs, and slicers.
+
+5-Interactive Dashboard Design
+Filters (by quarter and state) and visual breakdowns (by customer, category, payment mode, etc.) enable users to interact with the dashboard for in-depth exploration.
+
+6-Insight Generation
+Users can identify top-performing products, analyze regional and monthly performance, and make data-driven decisions to enhance business strategy.
+##Dashboard
+<a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-07%20214734.png"></a>
+
 
