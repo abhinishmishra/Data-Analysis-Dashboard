@@ -53,7 +53,8 @@ Filters (by quarter and state) and visual breakdowns (by customer, category, pay
 
 6-Insight Generation
 Users can identify top-performing products, analyze regional and monthly performance, and make data-driven decisions to enhance business strategy.
+
 ##Dashboard
-<a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-07%20214734.png"></a>
+<a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-07%20214734.png">View</a>
 
 
