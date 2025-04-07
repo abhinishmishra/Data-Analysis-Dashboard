@@ -33,4 +33,6 @@ Top-performing states include Maharashtra, Madhya Pradesh, and Uttar Pradesh, wi
 Hampiyati, Madhavi, and Madan Mohan are among the top customers by sales amount.
 Cash on Delivery (COD) remains the most preferred payment mode (44%), followed by UPI (21%), Debit Card (13%), and Credit Card (12%).
 
+- Dashboard Interaction <a href ="https://github.com/abhinishmishra/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-07%20214734.png">View Dashboard </a>
+- Dashboard Background<a href =""></a>
 
